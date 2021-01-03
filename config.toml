@@ -1,6 +1,6 @@
 title = "Rajvir Kaur Sraw"
 
-baseURL = "https://as_rajvir_kaur.github.io/www"
+baseURL = "https://srawrajvir.github.io/www"
 publishDir = "docs"
 
 #publishDir = "../public_html/www"
